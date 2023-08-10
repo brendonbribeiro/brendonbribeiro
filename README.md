@@ -19,13 +19,23 @@
 Since you're here, my name is Brendon Ribeiro, and I've been working as a developer for over 9 years (a long road covered, and a journey to come 🌀). In those years I developed more, in what caught my attention, mainly **Node and React**, developing performative APIs and following code standards, and by consuming them I was able to give the user a memorable experience. Above you can see a list of the technologies I'm most knowledgeable about 👆👆👆
 
 ## Recent projects
-| Company | Website | Achievements  |
-|---|---|---|
-| [American Dream](https://www.linkedin.com/company/americandream)  | http://americandream.com  | Developed an efficient checkout experience that enabled improved data gathering for upselling opportunities.
-Streamlined the implementation of new attractions, promotional campaigns, and pricing changes to ensure scalability and peak performance.
-Collaborated with cloud maintenance (AWS, Terraform, Cloudflare, Github Actions) on a small but dynamic team.  |
-|   |   |   |
-|   |   |   |
+### 🎢 American Dream
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/americandream)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://americandream.com)
+
+- Developed an efficient checkout experience that enabled improved data gathering for upselling opportunities.
+- Streamlined the implementation of new attractions, promotional campaigns, and pricing changes to ensure scalability and peak performance.
+- Collaborated with cloud maintenance (AWS, Terraform, Cloudflare, Github Actions) on a small but dynamic team.
+
+### 🏭 Mercos
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mercos/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mercos.com)
+
+- Utilized SOLID principles, Clean Code, Refactoring, and Design Patterns to write high-quality code.
+- Implemented a strong culture of frontend testing by migrating from [@enzyme](https://github.com/enzymejs/enzyme) to [@react-testing-library](https://github.com/testing-library/react-testing-library) and creating new test types like e2e (with [@cypress](https://github.com/cypress-io/cypress)) and VRT (with own creation tool: [@robot-eyes](https://github.com/mercos/robot-eyes)).
+- Collaborated with the mobile team (Xamarin) on refactoring the app's synchronization and other legacy code. Achieved significant improvements, seeing a 70% increase in initial sync speed.
+- Conducted internal conferences focusing on topics such as "Functional programming with Javascript", "Visual Regression Testing with Docker and Puppeteer" and "Code refactoring best practices".
+
 
 <!--
 **brendonbribeiro/brendonbribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
